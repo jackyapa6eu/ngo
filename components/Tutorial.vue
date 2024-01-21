@@ -93,8 +93,7 @@
               fill="currentColor"
             /></svg
         ></a>
-        <a href="https://twitter.com/nuxt_js" target="_blank"
-          ><svg
+        <a href="https://twitter.com/nuxt_js" target="_blank"><svg
             class="w-6 h-6 text-gray-600 hover:text-gray-800"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
