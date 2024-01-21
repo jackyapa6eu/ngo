@@ -21,5 +21,10 @@
     "@nuxt/types": "~2.17.0",
     "husky": "^8.0.3",
     "prettier": "^3.2.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run check"
+    }
   }
 }
